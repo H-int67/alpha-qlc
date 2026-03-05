@@ -1,1 +1,9 @@
 # alpha-qlc
+
+This is the Odin Projects's Project called Recipie. Which is gonna reflect and test all the knowledge of basic HTML that I've acquired...
+
+It's may not be the very frist time that I've touched basic HTML but it surely is the first time for me to work on an organized project. I mean, calling it a "project" would be an overstatement, but anyways it's the first thing of it's own kind that I'm doing...
+
+To be more specific, it's the git and github thing that I'm new to. I think github is kinda piece of cake to understand, but I don't think same can be said for git. But, yea first time for everythign so might as well just go for it see how it goes, and how things work out cuz why not..
+
+Ig that's it for now, I'll update this after the project is complete, and tell how it went and what not...
